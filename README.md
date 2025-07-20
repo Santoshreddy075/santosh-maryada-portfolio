@@ -4,13 +4,10 @@ A modern, responsive portfolio website showcasing the skills, projects, and expe
 
 ## 🚀 Live Demo
 
-**GitHub Pages URL:** [Will be updated after deployment]
-
+https://santoshreddy075.github.io/santosh-maryada-portfolio/
 ## 📋 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
+- [About](#about)- [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Deployment](#deployment)
